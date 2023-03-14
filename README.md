@@ -14,8 +14,9 @@ To provide users with a Work Day Scheduler. It can be used to add important even
 
 Link to the live site: https://jrossi425.github.io/Day_Calendar_Scheduler/
 
-![image](https://user-images.githubusercontent.com/123151991/221697115-c024181a-c56d-4286-bafc-e8b8560545c1.png)
-![image](https://user-images.githubusercontent.com/123151991/221697177-7e747b33-f8e3-408c-8158-97e3fa7a7513.png)
+![image](https://user-images.githubusercontent.com/123151991/224863003-3b7ca84a-f61f-4dd7-a2f3-981c41da4aa6.png)
+
+
 
 
 ## Credits
